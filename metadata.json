@@ -1,0 +1,9 @@
+{
+  "name": "Chloe AI: Multi-Agent Network",
+  "description": "An advanced AI assistant network led by Chloe, a research specialist. Create custom agents, delegate tasks, and solve complex problems with vision, voice, and deep thinking capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
